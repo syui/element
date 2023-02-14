@@ -4,7 +4,7 @@ config.json : https://github.com/vector-im/element-web/blob/develop/docs/config.
 
 dist : https://github.com/vector-im/element-web/releases
 
-まずdistファイルをdownloadします。それを展開し、`config.json`を置きます。
+まずdistファイルをdownloadします。downloadしたファイルを展開し、`config.json`を置きます。
 
 cloudflare pagesにてrepositorieを連携し、public-root, branchを設定します。
 
