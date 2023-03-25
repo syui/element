@@ -1,8 +1,8 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://matrix.syui.cf",
-            "server_name": "matrix.syui.cf"
+            "base_url": "https://matrix.syui.ai",
+            "server_name": "matrix.syui.ai"
         },
         "m.identity_server": {
             "base_url": "https://vector.im"
