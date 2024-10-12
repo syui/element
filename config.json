@@ -51,31 +51,10 @@
     },
     "map_style_url": "https://api.maptiler.com/maps/streets/style.json?key=fU3vlMsMn4Jb6dnEIFsx",
 
-				"net.nordeck.element_web.module.widget_toggles": {
-					"config": {
-						"types": ["ai.syui.*"]
-					}
-				},
-
 				"net.nordeck.element_web.module.guest": {
 					"config": {
 						"guest_user_homeserver_url": "https://matrix.syui.ai/",
 						"guest_user_prefix": "@guest-"
-					}
-				},
-
-				"net.nordeck.element_web.module.opendesk": {
-					"config": {
-						"banner": {
-							"ics_navigation_json_url": "https://element.syui.ai/navigation.json",
-							"ics_silent_url": "https://element.syui.ai/silent",
-							"portal_logo_svg_url": "https://element.syui.ai/logo.svg",
-							"portal_url": "https://element.syui.ai"
-						},
-						"custom_css_variables": {
-							"--cpd-color-text-action-accent": "#dadada",
-							"--cpd-color-icon-on-solid-primary": "#aa0000"
-						}
 					}
 				}
 
