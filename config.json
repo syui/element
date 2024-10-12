@@ -49,13 +49,5 @@
         "participant_limit": 8,
         "brand": "Element Call"
     },
-    "map_style_url": "https://api.maptiler.com/maps/streets/style.json?key=fU3vlMsMn4Jb6dnEIFsx",
-
-				"net.nordeck.element_web.module.guest": {
-					"config": {
-						"guest_user_homeserver_url": "https://matrix.syui.ai/",
-						"guest_user_prefix": "@guest-"
-					}
-				}
-
+    "map_style_url": "https://api.maptiler.com/maps/streets/style.json?key=fU3vlMsMn4Jb6dnEIFsx"
 }
