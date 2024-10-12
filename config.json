@@ -67,10 +67,10 @@
 				"net.nordeck.element_web.module.opendesk": {
 					"config": {
 						"banner": {
-							"ics_navigation_json_url": "https://matrix.syui.ai/navigation.json",
-							"ics_silent_url": "https://matrix.syui.ai/silent",
-							"portal_logo_svg_url": "https://matrix.syui.ai/logo.svg",
-							"portal_url": "https://matrix.syui.ai"
+							"ics_navigation_json_url": "https://element.syui.ai/navigation.json",
+							"ics_silent_url": "https://element.syui.ai/silent",
+							"portal_logo_svg_url": "https://element.syui.ai/logo.svg",
+							"portal_url": "https://element.syui.ai"
 						},
 						"custom_css_variables": {
 							"--cpd-color-text-action-accent": "#dadada",
